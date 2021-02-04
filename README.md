@@ -16,8 +16,8 @@ On the brewing screen, you will now have a timer showing 00:00:00. Press the act
 
 To-do
 
-code clean up and organization
-get cbpi notifications working when countdown finishes
-remove chart option from action drop down
-add function that accepts parameter to set time
-change time input from seconds to 00:00:00 like timer displays
+* code clean up and organization
+* get cbpi notifications working when countdown finishes
+* remove chart option from action drop down
+* add function that accepts parameter to set time
+* change time input from seconds to 00:00:00 like timer displays
