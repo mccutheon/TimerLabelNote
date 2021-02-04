@@ -3,11 +3,11 @@ An adjustable timer for craftbeerpi3 that can count up and down, pause, and rese
 
 Install in craftbeerpi3 plugins directory, and reboot pi
 
-  cd craftbeerpi3/modules/plugins
+* cd craftbeerpi3/modules/plugins
 
-  git clone https://github.com/mccutheon/TimerLabelNote.git
+* git clone https://github.com/mccutheon/TimerLabelNote.git
   
-  sudo reboot
+* sudo reboot
 
 Once pi is rebooted, go to Hardware and add a sensor. There will now be an option for TimerLabelNote. Give it a name, and provide the number of seconds you'd like the timer to be.
 
@@ -19,4 +19,4 @@ To-do
 * get cbpi notifications working when countdown finishes
 * remove chart option from action drop down
 * add function that accepts parameter to set time
-* change time input from seconds to 00:00:00 like timer displays
+* change time input configuration from seconds to 00:00:00 like timer displays
